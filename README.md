@@ -1,4 +1,4 @@
-# cat-vs-dog-image-classifier
+# Task 3 cat-vs-dog-image-classifier
 
 *COMPANY* : CODTECH IT SOLUTIONS
 
